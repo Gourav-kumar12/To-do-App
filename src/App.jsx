@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import LeftSideMenu from './assets/Components/LeftSideMenu'
 import TaskScreen from './assets/Components/TaskScreen'
 import NoProjectselected from './assets/Components/NoProjectselected'
-import ShowTask from './assets/Components/showTask'
+import ShowTask from './assets/Components/ShowTask'
 import { Toaster } from 'react-hot-toast';
 
 
